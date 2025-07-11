@@ -6,12 +6,13 @@
 ### Extract & Understand the Dataset:
 
 Check for the following common IPL datasets:
-- matches.csv → match-level details (teams, date, winner, etc.)
-- deliveries.csv → ball-by-ball data (bowler, batsman, runs, extras)
-- player_stats.csv or similar
-- orange_cap.csv
-- purple_cap.csv
-- Sheet1 (used  for team logo and captian's image and information )
+
+ - matches.csv → match-level details (teams, date, winner, etc.)
+ - deliveries.csv → ball-by-ball data (bowler, batsman, runs, extras)
+ - player_stats.csv or similar
+ - orange_cap.csv
+ - purple_cap.csv
+ - Sheet1 (used  for team logo and captian's image and information )
 
 ### Data Cleaning (in Power Query)
 •	Remove null/blank rows.
@@ -22,18 +23,18 @@ Check for the following common IPL datasets:
 
  ### EDA (Exploratory Data Analysis)
   Use Power BI visuals to perform the following:
-      - Match-Level Insights
-      - Total matches played
-      - Total no. of vanues
-      - Wins by each team (bar chart)
-      -	Toss decisions & outcomes
-      - Matches per venue (treemap)
-      - Top 2 Man_of_the_match player 
-      - orange cap stats with multi-row-card with picture 
-      - purple cap stats
-      - player who hit most 6's
-      - multi-card visulization of player who hit most 4's
-      - Top 10 stricker
+- Match-Level Insights
+- Total matches played
+- Total no. of vanues
+- Wins by each team (bar chart)
+-	Toss decisions & outcomes
+- Matches per venue (treemap)
+- Top 2 Man_of_the_match player 
+- orange cap stats with multi-row-card with picture 
+- purple cap stats
+- player who hit most 6's
+- multi-card visulization of player who hit most 4's
+- Top 10 stricker
 
 
 ## Future Enhanchment:
