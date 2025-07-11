@@ -53,7 +53,8 @@ LIKE  --Scraping Player Profiles and use profile picture
  #### Responsive for Moblie aslo 
 
 
-
+*Note: The source `.pbix` file is not shared to protect data integrity and structure.*
+mail to maitysougata420@gmail.com for source code :) 
       
       
  
